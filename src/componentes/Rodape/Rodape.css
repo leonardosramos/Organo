@@ -1,0 +1,22 @@
+.rodape {
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 213px;
+}
+
+.rodape img {
+    margin: 32px;
+    width: 32px;
+}
+
+.logo img {
+    width: 192px;
+}
+
+.text h2 {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
